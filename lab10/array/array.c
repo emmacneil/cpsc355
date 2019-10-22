@@ -3,8 +3,8 @@
 //    1, 1, 2, 3, 5, 8, 13, 21, ...
 //
 // Where each number is the sum of the two numbers before it.
-// Compute the first 20 Fibonacci numbers and store them in an array.
-// (The first 20 are each less than 65,536)
+// Compute the first 40 Fibonacci numbers and store them in an array.
+// (The first 40 each fit in 32 bits.)
 
 int main(int argc, char * argv[])
 {
